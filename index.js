@@ -4,4 +4,3 @@ const navbar = document.getElementById('nav-bar');
 hamburger.addEventListener('click', () => {
     navbar.classList.toggle('show');
 });
-
